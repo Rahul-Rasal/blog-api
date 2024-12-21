@@ -2,6 +2,8 @@
 
 A simple blog API built using Node.js, Express, and MongoDB. This project allows you to create, read, update, delete, and search blog posts.
 
+https://roadmap.sh/projects/blogging-platform-api
+
 ## Table of Contents
 
 - [Introduction](#introduction)
